@@ -42,7 +42,7 @@ Intersection Over Union (IOU) is a measure based on Jaccard Index that evaluates
 IOU is given by the overlapping area between the predicted bounding box and the ground truth bounding box divided by the area of union between them:  
 
 <p align="center"> 
-<img src="aux_images\iou.png">
+<img src="https://latex.codecogs.com/gif.latex?%5Ctext%7BIOU%7D%3D%5Cfrac%7B%5Ctext%7Barea%7D%5Cleft%28B_%7Bp%7D%20%5Ccap%20B_%7Bgt%7D%20%5Cright%29%7D%7B%5Ctext%7Barea%7D%5Cleft%28B_%7Bp%7D%20%5Ccup%20B_%7Bgt%7D%20%5Cright%29%7D">
 </p>
 
 <!---
@@ -53,7 +53,7 @@ The image below illustrates the IOU between a ground truth bounding box (in gree
 
 <!--- IOU --->
 <p align="center">
-<img src="https://github.com/rafaelpadilla/Object-Detection-Metrics/blob/master/aux_images/iou.png" align="center"/></p>
+<img src="aux_images\iou.png" align="center"/></p>
 
 ### True Positive, False Positive, False Negative and True Negative  
 
